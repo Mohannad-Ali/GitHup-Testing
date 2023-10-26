@@ -1,3 +1,3 @@
 # GitHup-Testing 
-## it ia just 
+## it is just 
 ### githup trainning 
